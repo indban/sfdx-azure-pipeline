@@ -17,6 +17,7 @@ This implementation has been based on the great work done by [Stafford Williams]
   6. Make sure your pipeline has the variables `SalesforceUsername`, `SalesforcePassword`, and `SalesforceSecurityToken` defined for it.
   7. Ensure that the versions and attributes for each task align with whatever updates have happened on the extension's task APIs.
 8. Run the pipeline.
+9. Configuration complete.
 
 # What It Does
 
